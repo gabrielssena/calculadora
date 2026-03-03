@@ -9,6 +9,6 @@ R-04: A aplicação deve permitir números do tipo float; <br>
 R-05: A aplicação deve calcular raiz quadrada; <br>
 R-06: A aplicação deve permitir alternar o sinal do número (+/−); <br>
 <br>
- OBS: trocado a % pela raiz quadrada
+ OBS: trocado a % pela raiz quadrada <br>
 <img width="447" height="828" alt="image" src="https://github.com/user-attachments/assets/8d3b6877-9100-451b-8db3-a7f6c94fe4af" />
 
